@@ -36,6 +36,11 @@ body {
     cursor: pointer;
 }
 
+.responsive{
+        height: auto;
+    max-width: 100%;
+}
+
 
 /* Navigation Styles */
 nav {
