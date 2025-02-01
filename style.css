@@ -37,8 +37,8 @@ body {
 }
 
 .responsive{
-        height: auto;
-    max-width: 100%;
+    height: auto;
+    width: 100%;
 }
 
 
@@ -236,6 +236,7 @@ nav {
     max-width: 600px;
     float: left;
     justify-content: center;
+    position: absolute;
 }
 
 .hero h1 {
